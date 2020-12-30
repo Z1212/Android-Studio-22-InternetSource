@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">22.Check network source</string>
+    <string name="title">查看網路</string>
+    <string name="check">查看網路來源</string>
+</resources>
